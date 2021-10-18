@@ -4,11 +4,11 @@
 
 ## Algorithm.
 
-<img src="images/algo.PNG" width="600" height="400">
+<img src="images/algo.png">
 
 ## Implementation
 
-<img src="images/class-diag.PNG" width="600" height="400">
+<img src="images/class-diag.png">
 
 ## References
-[1] : [F.Dragany M.Habibz L.Viennot, Revisiting Radius, Diameter, and all Eccentricity Computation in Graphs through Certificates]
+[1] : [F.Dragany M.Habibz L.Viennot, "Revisiting Radius, Diameter, and all Eccentricity Computation in Graphs through Certificates", 2018]
