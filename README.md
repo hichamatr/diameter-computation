@@ -1,6 +1,6 @@
 # diameter-computation
 
-- This is an Java-based implementation of the paper [1] which is briefly about a new efficient attempt to compute the diameter of a graph.
+- This is a Java-based implementation of the paper [1] which is briefly about a new efficient attempt to compute the diameter of a graph.
 
 ## Algorithm.
 
